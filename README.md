@@ -1,4 +1,4 @@
-# ai-virus
+# covid19-resources
 Master list of data and research on applying machine learning to COVID-19 and other viruses. For more general resources on deep learning in healthcare see [the list here](https://github.com/isaacmg/healthcare_ml)
 
 ## Introduction 
